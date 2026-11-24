@@ -1,14 +1,14 @@
 ---
-title: 쉼표섬 개인정보처리방침
+title: 힐링마을 - 등대 개인정보처리방침
 ---
 
 # 개인정보처리방침
 
-- **앱 이름:** 쉼표섬 (HealingVillage)
+- **앱 이름:** 힐링마을 - 등대 (HealingVillage)
 - **개발자:** zeroonevibecoding
 - **문의:** luminwis@gmail.com
 - **시행일:** 2026년 11월 24일
-- **최종 개정:** 2026년 11월 24일
+- **최종 개정:** 2026년 11월 25일
 
 [English](#privacy-policy-english)
 
@@ -113,11 +113,11 @@ luminwis@gmail.com
 
 # Privacy Policy (English)
 
-- **App:** 쉼표섬 (HealingVillage)
+- **App:** 힐링마을 - 등대 (HealingVillage)
 - **Developer:** zeroonevibecoding
 - **Contact:** luminwis@gmail.com
 - **Effective:** November 24, 2026
-- **Last updated:** November 24, 2026
+- **Last updated:** November 25, 2026
 
 ## Support
 
